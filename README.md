@@ -1,6 +1,6 @@
 # 🏏 Virat Kohli Career Stats Dashboard
 
-![Dashboard Preview](Images/dashboard.png)
+![Dashboard Preview](https://github.com/adarsh-jaiswal32/Virat-Kohli-Career-Stats-Dashboard/blob/main/virat%20.gif)
 
 ---
 
